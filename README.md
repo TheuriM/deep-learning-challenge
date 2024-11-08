@@ -72,4 +72,8 @@ Reduced Overfitting: Ensemble methods like Random Forests mitigate overfitting b
 
 In conclusion, while the neural network model offers promising results, exploring a Random Forest approach or further optimization techniques, such as hyperparameter tuning with GridSearchCV, could yield higher accuracy and more reliable performance.
 
+Optimized Model
+
+Despite various optimization attempts, the model achieved a consistent accuracy around 72%. These include: Modifying the model architecture (adding/removing layers and neurons), Using dropout and early stopping, Adjusting activation functions and learning rates Oversampling the data to address class imbalance
+
 
