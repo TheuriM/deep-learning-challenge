@@ -2,7 +2,7 @@
 # Alphabet Soup Charity Success Prediction
 This project involves creating a neural network model to predict the success of organizations funded by Alphabet Soup using a dataset of over 34,000 records. The analysis includes data preprocessing steps like dropping non-informative columns, encoding categorical variables, and scaling features. The initial model, comprising an input layer, two hidden layers with ReLU activations, and an output layer with a sigmoid activation, was trained using the Adam optimizer and binary cross-entropy loss. Optimization strategies such as adding more neurons, an additional hidden layer, and increasing training epochs improved model performance. The final report includes results, recommendations for using models like Random Forest for enhanced interpretability.
 
-Module 21 Challenge Solution: Alphabet Soup Charity Success Prediction
+
 Report on the Neural Network Model
 Overview of the Analysis
 The purpose of this analysis is to create a binary classifier using a neural network model that predicts whether an organization funded by the nonprofit Alphabet Soup will be successful. The dataset provided contains over 34,000 records with various features describing the organizations and their funding applications.
